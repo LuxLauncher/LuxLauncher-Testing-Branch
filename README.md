@@ -4,3 +4,7 @@ LuxLauncher is a simple and smooth launcher created by ReluxStudios to load only
 Because LuxLauncher streams the games directly from GitHub, you’ll need to be connected to the internet to play. If you prefer, you can also download the games from my Game Jolt page to play offline
 
 I built LuxLauncher to remove the barriers between players and my games no complicated installs, no waiting for downloads, just instant access anytime. It’s designed to be straightforward, reliable, and focused solely on delivering my games as smoothly as possible.
+
+This README.md was made using AI. The rest of the project does not use AI. My gamejolt link is:
+
+https://www.gamejolt.com/invite/ReluxStudios
